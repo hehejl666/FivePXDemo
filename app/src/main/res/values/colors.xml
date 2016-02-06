@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="skin_white">#FFFFFF</color>
+    <color name="BlueGray100">#CFD8DC</color>
+
+    <!--  Normal -->
+    <color name="skin_Primary">#2196f3</color>
+    <color name="skin_PrimaryDark">#1976d2</color>
+    <color name="skin_Accent">#64b5f6</color>
+    <color name="skin_Status">#801976d2</color>
+
+    <!--  Normal -->
+    <color name="skin_Primary_normal">#2196f3</color>
+    <color name="skin_PrimaryDark_normal">#1976d2</color>
+    <color name="skin_Accent_normal">#64b5f6</color>
+    <color name="skin_Status_normal">#801976d2</color>
+
+    <!-- Sunny-->
+    <color name="skin_Primary_sunny">#fb8c00</color>
+    <color name="skin_PrimaryDark_sunny">#ef6c00</color>
+    <color name="skin_Accent_sunny">#ffa726</color>
+    <color name="skin_Status_sunny">#80ef6c00</color>
+
+    <!-- Cloudy-->
+    <color name="skin_Primary_cloudy">#546e7a</color>
+    <color name="skin_PrimaryDark_cloudy">#37474f</color>
+    <color name="skin_Accent_cloudy">#78909c</color>
+    <color name="skin_Status_cloudy">#8037474f</color>
+
+
+    <!-- Partly Cloudy-->
+    <color name="skin_Primary_partlyCloudy">#757575</color>
+    <color name="skin_PrimaryDark_partlyCloudy">#424242</color>
+    <color name="discountbackground">#42424200</color>
+    <color name="skin_Accent_partlyCloudy">#bdbdbd</color>
+    <color name="skin_Status_partlyCloudy">#80424242</color>
+    <color name="black">#000000</color>
+    <!-- Pouring-->
+    <color name="skin_Primary_pouring">#3949ab</color>
+    <color name="skin_PrimaryDark_pouring">#283593</color>
+    <color name="skin_Accent_pouring">#5c6bc0</color>
+    <color name="skin_Status_pouring">#80283593</color>
+
+    <!-- Rain-->
+    <color name="skin_Primary_rain">#1e88e5</color>
+    <color name="skin_PrimaryDark_rain">#1565c0</color>
+    <color name="skin_Accent_rain">#42a5f5</color>
+    <color name="skin_Status_rain">#801565c0</color>
+
+    <!-- Thunderstorms -->
+    <color name="skin_Primary_thunderstorms">#5e35b1</color>
+    <color name="skin_PrimaryDark_thunderstorms">#4527a0</color>
+    <color name="skin_Accent_thunderstorms">#7e57c2</color>
+    <color name="skin_Status_thunderstorms">#804527a0</color>
+
+    <!-- Snow -->
+    <color name="skin_Primary_snow">#039be5</color>
+    <color name="skin_PrimaryDark_snow">#0277bd</color>
+    <color name="skin_Accent_snow">#29b6f6</color>
+    <color name="skin_Status_snow">#800277bd</color>
+
+    <!-- Hail -->
+    <color name="skin_Primary_hail">#00acc1</color>
+    <color name="skin_PrimaryDark_hail">#00838f</color>
+    <color name="skin_Accent_hail">#26c6da</color>
+    <color name="skin_Status_hail">#8000838f</color>
+
+    <!-- Fog -->
+    <color name="skin_Primary_fog">#00897b</color>
+    <color name="skin_PrimaryDark_fog">#00695c</color>
+    <color name="skin_Accent_fog">#26a69a</color>
+    <color name="skin_Status_fog">#8000695c</color>
+
+    <!-- Dust/haze -->
+    <color name="skin_Primary_dust">#6d4c41</color>
+    <color name="skin_PrimaryDark_dust">#4e342e</color>
+    <color name="skin_Accent_dust">#8d6e63</color>
+    <color name="skin_Status_dust">#804e342e</color>
+
+    <!-- AQI -->
+    <color name="heigreen">#86e20e</color>
+    <color name="aqi_a">#00c853</color>
+    <color name="aqi_b">#00e676</color>
+    <color name="aqi_c">#ff9100</color>
+    <color name="aqi_d">#ff6d00</color>
+
+    <!-- Wind Level -->
+    <color name="wind_level_a">#bbdefb</color>
+    <color name="wind_level_b">#90caf9</color>
+    <color name="wind_level_c">#64b5f6</color>
+    <color name="wind_level_d">#42a5f5</color>
+    <color name="wind_level_e">#2196f3</color>
+    <color name="wind_level_f">#1e88e5</color>
+    <color name="wind_level_g">#1976d2</color>
+    <color name="wind_level_h">#1565c0</color>
+    <color name="wind_level_i">#0d47a1</color>
+    <color name="wind_level_j">#1a237e</color>
+</resources>
