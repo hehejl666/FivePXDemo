@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity
         ButterKnife.bind(this);
         //Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        Log.d("heihei","heihei");
 
         initEvent();
 
