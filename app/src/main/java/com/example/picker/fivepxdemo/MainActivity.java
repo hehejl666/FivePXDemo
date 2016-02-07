@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity
         setSupportActionBar(toolbar);
         Log.d("heihei","heihei");
 
+        Log.d("2","2");
         initEvent();
 
 
